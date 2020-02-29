@@ -59,7 +59,7 @@ a{
 .Ulmenu li{
 	padding: 0 10px;
 	height: 100%;
-	line-height: 60px;
+	line-height: 80px;
 	font-size: 13px;
 	font-family: 'roboto' ,sans-serif;
 	font-weight: 600;
@@ -420,6 +420,11 @@ a{
 	font-family: arial;
 	color: white !important;
 	border-radius: 3px;
+}
+
+
+.icon-menu{
+	display: none;
 }
 
 
