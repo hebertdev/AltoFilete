@@ -18,7 +18,7 @@ body{
 	position: fixed;
 	background: transparent;
 	z-index: 5;
-	box-shadow: 0 2px 20px 0 rgba(0,0,0,0.22);
+	/*box-shadow: 0 2px 20px 0 rgba(0,0,0,0.22);*/
 	transition: all 0.5s;
 
 
