@@ -4,7 +4,7 @@ window.addEventListener('scroll' , function(){
 	
 
 	if(window.scrollY > 60){
-		header.style.background = 'rgb(144,0,0)'
+		header.style.background = 'linear-gradient(#1e1e1e, transparent)'
 	}else{
 		header.style.background = 'transparent'
 	}
